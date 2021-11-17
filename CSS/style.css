@@ -31,10 +31,18 @@ a{
   margin-right: 30px;
 }
 
+.content__img {
+  position:relative;
+}
+
 .pic {
-  position:fixed;
-  top:250px;
+  position:absolute;
+  top:100px;
   right:0;
+}
+
+img {
+  width:50%;
 }
 
 .content2 {
